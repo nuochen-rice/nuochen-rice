@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Nuo 👋</h1>
 
-<!--
-**nuochen-rice/nuochen-rice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/nuo-chen-rice">
+    <img src="https://img.shields.io/badge/LinkedIn-nuo--chen--rice-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/open%20to-industry%20exchange-brightgreen" alt="Open to industry exchange"/>
+</p>
 
-Here are some ideas to get you started:
+- 🤖 **AI product operations & AI infrastructure research** — how agent platforms and AI infra actually get adopted
+- 📍 Based in **Hangzhou, China**
+- 🎓 **MA, Zhejiang University** — International Organization and International Communication
+- 🇨🇭 Previously at the **United Nations Office at Geneva (UNOG)**, Switzerland
+- 🇩🇪🇫🇷 Exchange studies at **LMU Munich** and **Université Paris Nanterre (Paris X)**
+- 🤝 **Open to industry exchange** on AI infrastructure, agent platforms, developer experience, and AI product ops
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Multilateral institutions and AI infrastructure share one problem: capability is rarely the bottleneck — translation is. My work lives in that gap.
+
+---
+
+## 🧰 Self-built agent skills
+
+Reusable agent workflows I built to replace work I used to do by hand — all in [**work-productivity-agent-skills**](https://github.com/nuochen-rice/work-productivity-agent-skills).
+
+| Skill | What it does |
+| --- | --- |
+| 📘 [**campaign-retrospective**](https://github.com/nuochen-rice/work-productivity-agent-skills) | Turns campaign materials, metrics, and raw survey exports into a cleaned survey workbook + a structured retrospective doc. Never invents a number — missing fields stay `(TBD)`. |
+| 🖌️ [**lark-whiteboard-gen**](https://github.com/nuochen-rice/work-productivity-agent-skills) | Turns prompts or documents into **editable** Lark whiteboards — real text, shapes, and connectors on a disciplined grid, not a flattened image. |
+
+**Principles:** fixed structure beats a blank page · never fabricate a number · clean the data before interpreting it · write for the teammate, not for yourself.
+
+---
+
+## 📫 Reach me
+
+💼 [**LinkedIn**](https://www.linkedin.com/in/nuo-chen-rice) *(best place)* · 🐛 [Issues & PRs](https://github.com/nuochen-rice/work-productivity-agent-skills/issues)
